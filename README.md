@@ -18,7 +18,6 @@ Currently, I am developing an Automated Optical Inspection (AOI) system for dete
 
 🤝 **Collaboration:** This project is being developed in a team with **Efremenko Andrey**.
 
-> 🔒 **Note:** *The source code is currently stored in a private repository due to the ongoing Bachelor's Thesis defense. I am happy to provide access upon request or demonstrate the code during a technical interview.*
 
 ---
 
